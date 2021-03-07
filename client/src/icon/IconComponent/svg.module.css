@@ -1,0 +1,17 @@
+.menu {
+   cursor: pointer;
+   transition: .3s;
+}
+
+.menu:hover {
+   fill: #DE2E44;
+   transition: .3s;
+   width: 70px;
+   height: 70px;
+}
+
+.active {
+   fill: #DE2E44;
+   width: 70px;
+   height: 70px;
+}

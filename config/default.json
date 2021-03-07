@@ -1,0 +1,5 @@
+{
+  "port": 5001,
+  "jwtSecret": "butenin mern",
+  "mongoUri": "mongodb+srv://butenin:12qwaszx@lory-tyre.lswad.mongodb.net/lory-tyre?retryWrites=true&w=majority"
+}
